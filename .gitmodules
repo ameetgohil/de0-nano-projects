@@ -1,0 +1,3 @@
+[submodule "led_blink/software/linux-socfpga"]
+	path = led_blink/software/linux-socfpga
+	url = https://github.com/altera-opensource/linux-socfpga.git
