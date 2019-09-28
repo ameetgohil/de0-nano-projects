@@ -1,3 +1,6 @@
 [submodule "led_blink/software/linux-socfpga"]
 	path = led_blink/software/linux-socfpga
 	url = https://github.com/altera-opensource/linux-socfpga.git
+[submodule "led_blink/software/spl_bsp/u-boot"]
+	path = led_blink/software/spl_bsp/u-boot
+	url = git://git.denx.de/u-boot.git
